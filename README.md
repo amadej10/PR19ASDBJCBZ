@@ -25,15 +25,21 @@ Podatki s katerimi delamo so:
 - Vrednost pohištva
 - Podatki o prodaji(leto, mesec, cena,...)
 
-Prva stvar, ki smo jo naredili je da smo prebrali podatke in na osnovi učnih podatkov izračunali povprečno vrednost nepremičnin glede na njihovo sosesko. 
+Prva stvar, ki smo jo naredili je da smo prebrali podatke in na osnovi učnih podatkov izračunali povprečno vrednost nepremičnin glede na njihovo sosesko. Z izrisom grafa so takoj razvidne najcenejše in najdražje lokacije.
 
-Najdražje:
-    1. NoRidge
-    2. NridgHt
-    3. StoneBr
-    
-Najcenejše:
+**Najcenejše:**
+
     1. MeadowV
     2. IDOTRR
     3. BrDale
+**Najdražje:**
+
+    1. NoRidge
+    2. NridgHt
+    3. StoneBr
+
+![alt text](https://raw.githubusercontent.com/amadej10/PR19ASDBJCBZ/master/grafi/grafPovprecneProdajneCeneGledeNaLokacijo.png "Graf 1: Povprečna prodajna cena glede na lokacijo")
+
+    
+
     
