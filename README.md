@@ -38,8 +38,11 @@ Prva stvar, ki smo jo naredili je da smo prebrali podatke in na osnovi učnih po
     2. NridgHt
     3. StoneBr
 
-![alt text](https://raw.githubusercontent.com/amadej10/PR19ASDBJCBZ/master/grafi/grafPovprecneProdajneCeneGledeNaLokacijo.png "Graf 1: Povprečna prodajna cena glede na lokacijo")
+![alt text](https://github.com/amadej10/PR19ASDBJCBZ/blob/master/grafi/grafPovprecneProdajneCeneGledeNaLokacijoVecjaPisava.png "Graf 1: Povprečna prodajna cena glede na lokacijo")
 
-    
+Nadaljevali smo z iskanjem zelo dobrih kupčij oziroma osamelcev na področju prodajna cena v razmerju z bivalno površino. Iz grafa lahko prepoznamo, da sta se zgodile dve zelo dobri kupčiji.
+
+![alt text](https://github.com/amadej10/PR19ASDBJCBZ/blob/master/grafi/osamelci.png "Graf 2: Iskanje osamelcev")
+
 
     
