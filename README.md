@@ -44,5 +44,9 @@ Nadaljevali smo z iskanjem zelo dobrih kupčij oziroma osamelcev na področju pr
 
 ![alt text](https://github.com/amadej10/PR19ASDBJCBZ/blob/master/grafi/osamelci.png "Graf 2: Iskanje osamelcev")
 
+Ker nas pri nepremičninah najbolj zanima njihova prodajna cena smo iskali povezavo cene še z drugimi atributi. V spodnjih dveh grafih  smo iskali povezavo med letom izgradnje in ceno.
+![alt text](https://github.com/amadej10/PR19ASDBJCBZ/blob/master/grafi/cena_leto_gradnje.png "Graf 3: Korelacija cene in leta gradnje")
+![alt text](https://github.com/amadej10/PR19ASDBJCBZ/blob/master/grafi/povprecna_cena_leto_gradnje.png "Graf 4: Povprecne cene in leta gradnje")
+
 
     
