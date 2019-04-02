@@ -48,5 +48,12 @@ Ker nas pri nepremičninah najbolj zanima njihova prodajna cena smo iskali povez
 ![alt text](https://github.com/amadej10/PR19ASDBJCBZ/blob/master/grafi/cena_leto_gradnje.png "Graf 3: Korelacija cene in leta gradnje")
 ![alt text](https://github.com/amadej10/PR19ASDBJCBZ/blob/master/grafi/povprecna_cena_leto_gradnje.png "Graf 4: Povprecne cene in leta gradnje")
 
+Cilji:
+ - Izvedeti kje se nahjajo najdražje hiše.
+ - Izvedeti kaj je tisto, kar deva hiši vrednost (katere lastnosti hiše).
+ - Izvedeti kakšne hiše so najbolj povpraševane. 
+ - Napovedati ceno hiše glede na njene lastnosti. 
 
+Kriteriji: 
+ - Povprečje cen v območju, kjer smo dobili, da so najdražje hiše mora biti večji kot povprečja cen za vsa ostala območja.
     
